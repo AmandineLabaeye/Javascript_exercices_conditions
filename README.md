@@ -1,9 +1,12 @@
 Exercice 2 :
 
     - Creer deux variables : x et y
-    - Modifier le code afin que x ne soit pas supérieur à y
-    - Créer une condition qui vérifie que x est supérieur à y
-    - A la suite, utiliser l'instruction else pour executer le code
+    - Modifier le code afin que x ne 
+    soit pas supérieur à y
+    - Créer une condition qui vérifie que 
+    x est supérieur à y
+    - A la suite, utiliser l'instruction
+     else pour executer le code
 
 
 Théorie :
